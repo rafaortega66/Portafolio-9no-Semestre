@@ -15,3 +15,4 @@ Este repositorio contiene el progreso y entregables de mis materias de último a
 
 ---
 *Buscando activamente una posición de Intern / Becario en Desarrollo Web o Análisis de Datos.*
+*Comprobando funcionamiento de token*
