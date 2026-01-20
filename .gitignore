@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Carpeta de dependencias (Web Dev)
+node_modules/
+dist/
+build/
+
+# Archivos de ambiente (Seguridad)
+.env
